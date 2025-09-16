@@ -15,6 +15,7 @@ Este repositorio contiene el seguimeinto 1 de la materia de Lenguajes de Program
 
 ## Aciertos y preguntas
 2/2
+
 """
 
 with open("README.md", "w", encoding="utf-8") as f:
