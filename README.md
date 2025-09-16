@@ -11,7 +11,7 @@ Este es mi repositorio para la materia de **Lenguajes de programacion**.
 - **Universidad:** LaSallista
 
 ## Descripción
-Este repositorio contiene el seguimeinto 1 de la materia de Lenguajes de Programación, donde se incluyen ejercicios y proyectos realizados durante el semestre.
+Este repositorio contiene el seguimeinto 1 de la materia de Lenguajes de Programación, donde se incluyen ejercicios y proyectos realizados durante la clase pasada el dia 15/09/2025.
 
 ## Aciertos y preguntas
 2/2
