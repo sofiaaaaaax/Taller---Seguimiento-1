@@ -107,7 +107,7 @@ class RecetasApp(tk.Tk):
             ingredientes = self.recetas.get(nombre)
             messagebox.showinfo(f"Ingredientes de {nombre}", ingredientes)
         except IndexError:
-            pass # No hacer nada si no hay nada seleccionado
+            pass 
  
     def mostrar_info(self):
         """Muestra una ventana de información de la aplicación."""
@@ -116,3 +116,4 @@ class RecetasApp(tk.Tk):
 if __name__ == "__main__":
     app = RecetasApp()
     app.mainloop()
+
